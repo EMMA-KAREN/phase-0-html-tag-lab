@@ -30,10 +30,11 @@ error messages that you can use to debug your code — read them closely for
 hints!
 
 ### Viewing Your Work in the Browser
+.html
 
 While working through these assignments, your general workflow should center on
 writing code in the text editor and periodically running the test suite in the
-terminal to check your work.
+terminal to check yfirst our work.
 
 Another great way to track your progress is to open up the HTML document in your
 browser and watch how each change you make in the text editor affects the visual
